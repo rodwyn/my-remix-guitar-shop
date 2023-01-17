@@ -1,0 +1,10 @@
+:root {
+  --primary: #e99401;
+}
+
+html {
+  font-family: 'Quicksand';
+  font-size: 1.25rem;
+  box-sizing: border-box;
+  color: var(--primary);
+}
